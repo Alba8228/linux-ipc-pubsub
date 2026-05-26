@@ -1,0 +1,31 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+server
+client
+client1/client
+client2/client
+server/server
+
+# IDE files
+.vscode/
+.idea/
+
+# Backup files
+*~
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.bak
+*.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Empty directories (optional, since git doesn't track empty dirs)
+shm/
